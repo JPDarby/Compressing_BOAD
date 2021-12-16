@@ -1,3 +1,3 @@
-# Compression_MBD
+# Compression_BOAD
 
 Data and compression implementation to supporting "Compressing body-ordered atomic descriptors"
